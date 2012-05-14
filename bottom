@@ -1,0 +1,34 @@
+own_window yes 
+own_window_colour 262729
+own_window_transparent no 
+own_window_type normal 
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+double_buffer yes
+use_spacer right 
+use_xft yes
+#font snap-7
+#xftfont silkscreen:size=6
+xftfont SimSun:size=10
+xftalpha 1
+text_buffer_size 2048 
+#alignment bottom
+gap_x 0 
+gap_y 3
+
+# --- Colours, Sizes, Fonts & Margins --- #
+update_interval 1.0
+stippled_borders 0
+minimum_size 1366 3
+maximum_width 1366 2
+#border_margin 3
+border_width 0 
+default_color 5e7175
+# --- Text --- #
+draw_outline no
+draw_borders no
+#font -*-profont-*-*-*-11-*-*-*-*-*-*-* 
+uppercase no
+draw_shades no 
+
+TEXT
+${alignc}${color a6e22e}${time %R %a | %b %d} ${color}-${color f92672} $kernel${color} | ${color beed5f}Mutt:${color d3d3d3} ${execpi 10 /secure/.CODEBREAK/scripts/new-mail-checker.pl} | ${color fd971f} Uptime ${color d3d3d3} $uptime ${color}| ${color ff669d}SHM${color d3d3d3} ${fs_free /dev/shm/} | ${color 9e6ffe}Cpu: ${color d3d3d3}${cpu}% , ${execi 3 cpu_mhz} , ${acpitemp}°C | ${color 00CBEE}Ram: ${color d3d3d3}${mem} | ${color}Home: ${color e0e0e0}${font}${fs_free /} | ${color}Down:  ${if_match ${downspeedf} > 200}${color red}${else}${color e0e0e0}${endif}${downspeedf ppp0} ${color e0e0e0}KiB/s  | ${color D45959}Up: ${if_match ${upspeedf} > 20}${color red}${else}${color e0e0e0}${endif} ${upspeedf ppp0} ${color e0e0e0}KiB/s 

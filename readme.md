@@ -7,6 +7,6 @@ Uso:
 configure script/mpdcover.pl , change the path of the "nocover" image.
 modify mpd2 as your needs , e.g program path
 
-![Screenshot] (https://github.com/CaledoniaProject/ConkyConfig/raw/master/screenshot/up.png "Desktop screenshot")
+![Screenshot] (https://github.com/CaledoniaProject/ConkyConfig/raw/master/screenshot/up2.png "Desktop screenshot")
 
 Blog: c0debreak.blogspot.com

@@ -1,12 +1,22 @@
-My conky configuration , using a customized mpd cover fetch script.
+My custom conky config, plus other utilities:
+    - MPD cover fetcher
 
-Source:  http://kalushary.deviantart.com/art/Base-for-Conky-171144625
-Source2: http://cruznick.deviantart.com/art/compiz-standalone-conky-175603072 
+Source:  
+    http://kalushary.deviantart.com/art/Base-for-Conky-171144625
 
-Uso:
-configure script/mpdcover.pl , change the path of the "nocover" image.
-modify mpd2 as your needs , e.g program path
+Source2: 
+    http://cruznick.deviantart.com/art/compiz-standalone-conky-175603072 
 
+
+How to use it?
+---
+I don't provide much details, as the scripting is fairly to understand, issue a bug report if you find any difficulities.
+
+
+Screenshot
+---
 ![Screenshot] (https://github.com/CaledoniaProject/ConkyConfig/raw/master/screenshot/up2.png "Desktop screenshot")
 
-Blog: c0debreak.blogspot.com
+Blog (Blocked in PRC)
+---
+c0debreak.blogspot.com

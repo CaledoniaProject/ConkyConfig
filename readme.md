@@ -12,6 +12,8 @@ How to use it?
 ---
 I don't provide much details, as the scripting is fairly to understand, issue a bug report if you find any difficulities.
 
+The mpd cover fetcher script requires an image when there's no cover picture available, you may find mine in images/nocover.png
+
 
 Screenshot
 ---

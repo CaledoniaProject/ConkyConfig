@@ -1,5 +1,6 @@
 My custom conky config, plus other utilities:
-    - MPD cover fetcher
+---
+    MPD cover fetcher
 
 Source:  
     http://kalushary.deviantart.com/art/Base-for-Conky-171144625

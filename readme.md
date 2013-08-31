@@ -1,25 +1,15 @@
-My custom conky config, plus other utilities:
----
-    MPD cover fetcher
+### Deploy guide
 
-Source:  
-    http://kalushary.deviantart.com/art/Base-for-Conky-171144625
+The package include
 
-Source2: 
-    http://cruznick.deviantart.com/art/compiz-standalone-conky-175603072 
+- My own conky configuration
+- A MPD cover fetcher
 
+### Original source
 
-How to use it?
----
-I don't provide much details, as the scripting is fairly to understand, issue a bug report if you find any difficulities.
+- http://kalushary.deviantart.com/art/Base-for-Conky-171144625
+- http://cruznick.deviantart.com/art/compiz-standalone-conky-175603072 
 
-The mpd cover fetcher script requires an image when there's no cover picture available, you may find mine in images/nocover.png
+### Screenshot
 
-
-Screenshot
----
 ![Screenshot] (https://github.com/CaledoniaProject/ConkyConfig/raw/master/screenshot/up2.png "Desktop screenshot")
-
-Blog (Blocked in PRC)
----
-c0debreak.blogspot.com

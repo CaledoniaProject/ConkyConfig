@@ -12,4 +12,4 @@ The package include
 
 ### Screenshot
 
-![Screenshot] (https://github.com/CaledoniaProject/ConkyConfig/raw/master/screenshot/up2.png "Desktop screenshot")
+![Screenshot](https://github.com/CaledoniaProject/ConkyConfig/raw/master/screenshot/up2.png "Desktop screenshot")
